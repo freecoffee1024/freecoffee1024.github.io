@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://freecoffee1024.github.io</id>
     <title>Dongle</title>
-    <updated>2020-03-14T17:51:25.300Z</updated>
+    <updated>2020-05-14T10:35:12.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://freecoffee1024.github.io"/>
     <link rel="self" href="https://freecoffee1024.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://freecoffee1024.github.io/images/avatar.png</logo>
     <icon>https://freecoffee1024.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Dongle</rights>
+    <entry>
+        <title type="html"><![CDATA[美食小心得]]></title>
+        <id>https://freecoffee1024.github.io/post/mei-shi-xiao-xin-de/</id>
+        <link href="https://freecoffee1024.github.io/post/mei-shi-xiao-xin-de/">
+        </link>
+        <updated>2020-05-14T10:16:58.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    想必很多人对炒面皮印象很深，但是你对炒凉粉了解多少。今天咱们来讲讲炒凉粉的好吃的做法：
+</code></pre>
+<p>（1）首先准备的食材：妈妈做的新鲜的凉粉一块（切成小块） ，葱段少许，2-3根蒜苔切丁，4-5瓣大蒜切成末（取出一半做成蒜水备用），两颗鸡蛋炒出备用，水淀粉少许备用，少量干红辣椒<br>
+（2）起锅烧油，将葱段，蒜苔丁，蒜末，红辣椒放入，小火炒香，上少量鸡精，十三香，白糖，少许盐调味，开中火，倒入凉粉，倒入老抽上色，轻轻翻炒，中途加入芝麻醋和水淀粉，再加入鸡蛋，上少许盐，大火收汁。<br>
+一份香喷喷的炒凉粉就做好了！😁</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[考研政治图片预览]]></title>
         <id>https://freecoffee1024.github.io/post/kao-yan-zheng-zhi-tu-pian-yu-lan/</id>
