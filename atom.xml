@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://freecoffee1024.github.io</id>
     <title>Dongle</title>
-    <updated>2021-04-15T07:19:12.436Z</updated>
+    <updated>2021-04-17T16:23:22.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://freecoffee1024.github.io"/>
     <link rel="self" href="https://freecoffee1024.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://freecoffee1024.github.io/images/avatar.png</logo>
     <icon>https://freecoffee1024.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dongle</rights>
+    <entry>
+        <title type="html"><![CDATA[下载视频万能方法]]></title>
+        <id>https://freecoffee1024.github.io/post/xia-zai-shi-pin-wan-neng-fang-fa/</id>
+        <link href="https://freecoffee1024.github.io/post/xia-zai-shi-pin-wan-neng-fang-fa/">
+        </link>
+        <updated>2021-04-17T16:15:23.000Z</updated>
+        <content type="html"><![CDATA[<p>下载难以下载的视频，在这儿举个哔哩哔哩的实例吧：<br>
+1.新建文件夹：下载视频<br>
+2.在路径区域输入cmd并打开<br>
+3.输入you-get   https://www.bilibili.com/...(注意将search之后的&amp;seid=删除键入%3D)即可下载了<br>
+你学会了吗？注意：没有you-get的同学先去pip install you-get之后的操作照着来就行，是不是又学会了一招！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实习日志]]></title>
         <id>https://freecoffee1024.github.io/post/shi-xi-ri-zhi/</id>
