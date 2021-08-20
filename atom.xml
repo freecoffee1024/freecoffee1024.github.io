@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://freecoffee1024.github.io</id>
     <title>Dongle</title>
-    <updated>2021-08-20T11:31:53.449Z</updated>
+    <updated>2021-08-20T12:32:32.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://freecoffee1024.github.io"/>
     <link rel="self" href="https://freecoffee1024.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://freecoffee1024.github.io/images/avatar.png</logo>
     <icon>https://freecoffee1024.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dongle</rights>
+    <entry>
+        <title type="html"><![CDATA[极速下载（解决百度网盘限速问题）]]></title>
+        <id>https://freecoffee1024.github.io/post/ji-su-xia-zai-jie-jue-bai-du-wang-pan-xian-su-wen-ti/</id>
+        <link href="https://freecoffee1024.github.io/post/ji-su-xia-zai-jie-jue-bai-du-wang-pan-xian-su-wen-ti/">
+        </link>
+        <updated>2021-08-20T11:34:59.000Z</updated>
+        <content type="html"><![CDATA[<p>$基本前提（1.chrome浏览器【更好用】2.win10自带Microsoft Edge3.Firefox【火狐浏览器】）：<br>
+一、安装油猴脚本，在安装脚本之前，必须先安装油猴浏览器扩展：<br>
+【第一步】下载油猴链接：https://www.tampermonkey.net/ --&gt; 如有提示安装，则直接安装即可，否则继续执行第二步<br>
+【第二步】安装油猴 --&gt; 拖动安装crx文件(推荐)</p>
+<p>二、直接推荐的方式：IDM<br>
+IDM下载链接：https://wwx.lanzoux.com/b01nqc7yj<br>
+此处提供的IDM是绿色版本，解压后，执行&quot;绿化.bat&quot;，就可以正常使用了。<br>
+IDM配置：设置4线程及修改UA为 softxm;netdisk,如图所示：<br>
+<img src="https://freecoffee1024.github.io/post-images/1629460719160.jpg" alt="" loading="lazy"><br>
+<img src="https://freecoffee1024.github.io/post-images/1629460756734.jpg" alt="" loading="lazy"><br>
+新建下载任务后，不要立刻下载，先等待出现正常文件图标时，再进行下载！<br>
+<img src="https://freecoffee1024.github.io/post-images/1629460779485.jpg" alt="" loading="lazy"></p>
+<p>三、下载安装“百度网盘简易下载助手”油猴脚本<br>
+脚本链接地址：https://greasyfork.org/zh-CN/scripts/418182-百度网盘简易下载助手-直链下载复活版，安装之后，打开百度网盘（切记是网页版网盘，初次登陆需要登录自己的百度账号），即会发现多了一个红色按钮“简易下载助手”，如图所示：<br>
+<img src="https://freecoffee1024.github.io/post-images/1629461262023.jpg" alt="" loading="lazy"><br>
+勾选文件，点击【简易下载助手】，弹出文件下载窗口：<br>
+<img src="https://freecoffee1024.github.io/post-images/1629461375588.jpg" alt="" loading="lazy"><br>
+复制后就可以到IDM中新建下载任务了，如图所示：<br>
+<img src="https://freecoffee1024.github.io/post-images/1629461678206.png" alt="" loading="lazy"></p>
+<p>作者小白备注：IDM是一款多线程下载器，功能很强大，这里搭配了油猴插件，效果甚佳，其本身的下载速度也是很快的，还可以下载很多类型的文件，自己有兴趣可以去探索一下哦！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下载视频万能方法]]></title>
         <id>https://freecoffee1024.github.io/post/xia-zai-shi-pin-wan-neng-fang-fa/</id>
